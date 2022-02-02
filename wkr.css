@@ -166,8 +166,8 @@ body{
 #upload{
     position: fixed;
     background-attachment: fixed;
-    right: 0%;
-    top: 60%;
+    left: 33%;
+    top: 55%;
     font-size: 2em;
     border: none;
     border-color: black;
