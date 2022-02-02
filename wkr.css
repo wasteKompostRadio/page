@@ -65,8 +65,8 @@ body{
     font-weight: 200;
     text-align: right;
     line-height: 1;
-    margin-top: 10px;
-    padding-left: 40%;
+    margin-top: 15px;
+    padding-left: 30%;
 }
 
 .call{
@@ -165,7 +165,7 @@ body{
 #upload{
     position: fixed;
     right: 0%;
-    top: 42%;
+    top: 60%;
     font-size: 2em;
     border: none;
     border-color: black;
