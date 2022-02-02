@@ -16,6 +16,7 @@ body{
     width: 200px;
     height: auto;
     z-index: 0;
+    background-attachment: fixed;
 }
 
 .image_partner{
@@ -164,6 +165,7 @@ body{
 
 #upload{
     position: fixed;
+    background-attachment: fixed;
     right: 0%;
     top: 60%;
     font-size: 2em;
